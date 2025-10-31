@@ -9,3 +9,7 @@ int calcularFatorial(int n) {
     }
     return result;
 }
+
+int somarNumeros(int a, int b) { // <-- Implementação Adicionada
+    return a + b;
+}
